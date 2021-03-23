@@ -1,0 +1,13 @@
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\bin\Debug\Formulario.exe
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\bin\Debug\Formulario.pdb
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\obj\Debug\Formulario.csprojAssemblyReference.cache
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\obj\Debug\Formulario.exe
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\obj\Debug\Formulario.pdb
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\obj\Debug\Formulario.frm_Principal.resources
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\obj\Debug\Formulario.frm_EOP.resources
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\obj\Debug\Formulario.frm_EOQ_CON.resources
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\obj\Debug\Formulario.frm_EOQ_DESC.resources
+C:\Users\Akeyiro\Documents\Visual Studio 2019\Formulario\obj\Debug\Formulario.frm_EOQ_SIN.resources
